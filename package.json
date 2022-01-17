@@ -13,8 +13,8 @@
   "dependencies": {
     "jade": "0.20.3",
     "async": "0.1.18",
-    "glob": "3.1.7",
-    "uglify-js": "1.2.5"
+    "glob": "5.0.15",
+    "uglify-js": "3.14.3"
   },
   "devDependencies": {
     "mocha": "1.11.0",
